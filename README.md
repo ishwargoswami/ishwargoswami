@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **AI that writes jokes – Because mine aren’t landing yet. 😂**
 
-- 👨‍💻 All of my projects are available at [https://iishw.tech/](https://iishw.tech/)
-
-- 📝 I'm practically a resident at [https://www.naukri.com/code360/profile/62f1bb5c-146d-4c4d-8c2a-7ca1cf8146ad](https://www.naukri.com/code360/profile/62f1bb5c-146d-4c4d-8c2a-7ca1cf8146ad)
+- 👨‍💻 All of my projects are available at [https://ishw.tech/](https://ishw.tech/)
 
 - 💬 Ask me about **Turning caffeine into code, or how to Google like a wizard! 🧙‍♂️☕**
 
